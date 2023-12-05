@@ -6,5 +6,7 @@ index:
 
 - Assignment 2
     - creating/manipulating tables, inserting data
+- CS200 Final Project
+    - MySQL Versus SQLite
 
 ╰┈ • ┈┈ • ┈ ୨୧┈ • ┈┈ • ┈ ╯ 
